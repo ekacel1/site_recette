@@ -58,6 +58,7 @@ table.info{
     color: white;
     background-color: #6C8992C0;
     height: 80px;
+    border:0;
 }
 img.center{
     display: block;
